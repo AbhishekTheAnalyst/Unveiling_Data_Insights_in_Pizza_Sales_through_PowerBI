@@ -2,6 +2,8 @@
 
 Designed an interactive Power BI dashboard to extract valuable insights for driving the business strategies.
 
+Link to dashboard: https://rb.gy/ji417
+
 🔑 Valuable Insights:
 
 Weekly Highlights:
