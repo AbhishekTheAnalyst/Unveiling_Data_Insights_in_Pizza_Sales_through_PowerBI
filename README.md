@@ -4,6 +4,9 @@ Designed an interactive **Power BI dashboard** to extract valuable insights for 
 
 Link to dashboard: https://rb.gy/ji417
 
+![Dashboard](https://github.com/AbhishekTheAnalyst/Unveiling_Data_Insights_in_Pizza_Sales_through_PowerBI/assets/109465334/9e2ed3f5-6eab-43e5-8f01-4f596455ec68)
+
+
 **🔑 Valuable Insights:**
 
 **Weekly Highlights:**
