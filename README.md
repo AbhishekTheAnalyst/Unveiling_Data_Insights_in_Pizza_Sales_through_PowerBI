@@ -6,8 +6,18 @@ Link to dashboard: https://rb.gy/ji417
 
 ![Dashboard](https://github.com/AbhishekTheAnalyst/Unveiling_Data_Insights_in_Pizza_Sales_through_PowerBI/assets/109465334/9e2ed3f5-6eab-43e5-8f01-4f596455ec68)
 
+**Analysis:**
+--------------------------------------------------------------------------------------------------------------------------
+
+**DAX in Power BI:** 
+
+- **Data Transformation**: Used Power Query, to clean and transform the raw data into a structured format.
+  
+- **Advanced Calculations**: Utilised DAX to create custom measures and calculations in order to bring a new dimension to my analysis and generate valuable insights.
+
 
 **🔑 Valuable Insights:**
+--------------------------------------------------------------------------------------------------------------------------
 
 **Weekly Highlights:**
 
